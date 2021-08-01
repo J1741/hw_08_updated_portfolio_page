@@ -181,6 +181,11 @@ p {
     width: 75%;
 }
 
+.resume-download-text {
+  color: #293241;
+  text-decoration: underline;
+}
+
 /**********************/
 /*** 5.2 Main: Work ***/
 /**********************/
